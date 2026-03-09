@@ -7,7 +7,7 @@ Jogo em TypeScript + Vite, pronto para publicar no GitHub Pages.
 ```bash
 npm install
 npm run dev
-```
+``` 
 
 ## Build de produção
 
